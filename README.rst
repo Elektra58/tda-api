@@ -38,7 +38,7 @@ How do I use ``tda-api``?
 -------------------------
 
 For a full description of ``tda-api``'s functionality, check out the 
-`documentation <https://tda-api.readthedocs.io/en/latest/>`__. Meawhile, here's 
+`documentation <https://tda-api.readthedocs.io/en/latest/>`__. Meanwhile, here's 
 a quick getting started guide:
 
 Before you do anything, create an account and an application on the
